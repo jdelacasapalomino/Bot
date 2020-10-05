@@ -5,7 +5,7 @@ import config from '../../config.json';
 export default class InfoCommand implements Command {
     precondition: Permission = '';
     name = 'info';
-    summary = 'Get stats about 3PG';
+    summary = 'Get stats about Aura';
     cooldown = 1;
     module = 'General';
     
