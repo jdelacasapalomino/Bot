@@ -47,5 +47,5 @@ export default class API {
     }
 }
 
-const port = config.api.port || 3001;
+const port = config.api.port || 3000;
 app.listen(port, () => Log.info(`API is live on port ${port}`));
