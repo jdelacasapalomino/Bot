@@ -6,7 +6,7 @@ export class Mock {
   static guild() {
     const guild = mock<Guild>();
 
-    guild.id = '533947001578979322';
+    guild.id = '760969633389084685';
     guild.name = 'Test Server';
 
     return guild;
@@ -26,7 +26,7 @@ export class Mock {
 
     user.username = 'User';
     user.discriminator = '0001';
-    user.id = '533947001578979328';
+    user.id = '173557815326015488';
 
     return user;
   }
