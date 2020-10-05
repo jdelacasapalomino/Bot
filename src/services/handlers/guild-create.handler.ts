@@ -16,6 +16,6 @@ export default class GuildCreateHandler implements EventHandler {
 
     private sendWelcomeMessage(channel: TextChannel | null) {
         const url = `${config.dashboardURL}/servers/${channel.guild.id}`;
-        channel?.send(`Hey, I'm 3PG! Customize me at ${url}`);
+        channel?.send(`Hey, I'm AUra! Customize me at ${url}`);
     }    
 }
