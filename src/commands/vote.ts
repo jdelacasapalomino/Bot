@@ -4,7 +4,7 @@ import config from '../../config.json';
 export default class FlipCommand implements Command {
     precondition: Permission = '';
     name = 'vote';
-    summary = 'Get 3PG voting links, and support 3PG';
+    summary = 'Get Aura voting links, and support Aura';
     cooldown = 1;
     module = 'General';
     
