@@ -1,10 +1,10 @@
-# 3PG
+# Aura
 The all-in-one, highly customizable Discord bot.
 
-![Dashboard Preview](https://3pg.xyz/assets/docs/img/dashboard-v2.2.0b.png)
+![Dashboard Preview](Coming Soon)
 
 # Setup
-Please follow the [2PG Setup](https://github.com/theADAMJR/2PG) to use the bot.
+Please follow the [Aura Setup](https://github.com/AuraDiscord/Aura) to use the bot.
 
 `config.json`
 ```json
@@ -12,13 +12,13 @@ Please follow the [2PG Setup](https://github.com/theADAMJR/2PG) to use the bot.
     "bot": {
         "token": "",
         "secret": "",
-        "id": "533947001578979328",
-        "ownerId": "218459216145285121",
-        "activity": "3PG.xyz",
+        "id": "545049149033152547",
+        "ownerId": "173557815326015488",
+        "activity": "auramm.xyz",
         "voteURLs": [
-            "https://dbots.co/bots/525935335918665760/vote",
-            "https://top.gg/bot/525935335918665760/vote",
-            "https://discordbotlist.com/bots/525935335918665760/upvote"
+            "https://dbots.co/bots/545049149033152547/vote",
+            "https://top.gg/bot/545049149033152547/vote",
+            "https://discordbotlist.com/bots/545049149033152547/upvote"
         ],
         "botLists": {
             "dbl": {
@@ -32,8 +32,8 @@ Please follow the [2PG Setup](https://github.com/theADAMJR/2PG) to use the bot.
         }
     },
     "guild": {
-        "id": "599596068145201152",
-        "premiumRoleId": "598565371162656788"
+        "id": "625103903796756500",
+        "premiumRoleId": "762435391486689321"
     },
     "api": {
         "port": "3000",
@@ -42,5 +42,5 @@ Please follow the [2PG Setup](https://github.com/theADAMJR/2PG) to use the bot.
         "stripeWebhookSecret": ""
     },
     "dashboardURL": "http://localhost:4200",
-    "mongoURL": "mongodb://localhost/3PG"
+    "mongoURL": "mongodb://localhost/Aura"
 }```
